@@ -2,6 +2,7 @@
   "block.heart_crystals.heart_crystal": "Heart Crystal",
   "block.heart_crystals.heart_crystal.desc": "+1 Permanent Heart (Max %s)",
   "block.heart_crystals.heart_crystal.maximum": "Cannot use heart crystal; currently at maximum hearts!",
+  "block.heart_crystals.heart_crystal_lamp": "Heart Crystal Lamp",
   "block.heart_crystals.heart_crystal_shard": "Heart Crystal Shard",
   "block.heart_crystals.heart_lantern": "Heart Lantern",
   "block.minecraft.banner.heart_crystals.heart.black": "Black Heart",

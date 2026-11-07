@@ -14,7 +14,7 @@ public class HCBlockTagProvider extends BlockTagsProvider {
 
     @Override
     protected void addTags(HolderLookup.Provider provider) {
-        this.tag(BlockTags.MINEABLE_WITH_PICKAXE).add(HCBlocks.HEART_CRYSTAL.get(), HCBlocks.HEART_CRYSTAL_SHARD.get(), HCBlocks.HEART_LANTERN.get());
+        this.tag(BlockTags.MINEABLE_WITH_PICKAXE).add(HCBlocks.HEART_CRYSTAL.get(), HCBlocks.HEART_CRYSTAL_SHARD.get(), HCBlocks.HEART_LANTERN.get(), HCBlocks.HEART_CRYSTAL_LAMP.get());
     }
 
 }

@@ -48,6 +48,7 @@ public class HCLootTableProvider extends LootTableProvider {
             this.dropSelf(HCBlocks.HEART_CRYSTAL.get());
             this.dropSelf(HCBlocks.HEART_CRYSTAL_SHARD.get());
             this.dropSelf(HCBlocks.HEART_LANTERN.get());
+            this.dropSelf(HCBlocks.HEART_CRYSTAL_LAMP.get());
         }
 
         @Override

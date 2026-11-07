@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "heart_crystals:block/heart_crystal_lamp"
+  }
+}
